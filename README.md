@@ -13,16 +13,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Jij
 
 <details open>
-  <summary>uitwerken voor kick-off werkgroep</summary>
+  <summary>INFORMATIE</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Linsey Quatfass
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Startniveau: BLAUW
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Focus: surface plane
  
 </details>
 
@@ -33,18 +33,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Je website
 
 <details open>
-  <summary>uitwerken voor kick-off werkgroep</summary>
+  <summary>Informatie over de gekozen website</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  Gekozen website is: Cafecito 
+  Url van de website <a href="https://cafecito.nl/about-our-coffee/">Cafecito website</a>
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Home pagina
+  <img src="readme-images/cafecito.nl_(iPhone XR).png" width="375px" alt="Home scherm van de website">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  About page 
+  <img src="readme-images/cafecito.nl_about-our-coffee_(iPhone XR).png" width="375px" alt="About pagina website">
  
 </details>
 
