@@ -61,7 +61,24 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 1e werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  Lijst met bevindingen website:
+
+  website maakt niet gebruik van veel verschillende fonts.
+  heeft een grote NAV bar, in de nav bar een optie om de taal te veranderen.
+  Afbeeldingen verschijnen in beeld tijdens het scrollen.
+  Scrol/caroucel bar met producten.
+  Producten/afbeelding worden groter als je met de muis erover heen gaat.
+  Producten die uitverkocht zijn worden aangegven door een doorzichtig vlak eroverheen. Wel nog klikbaar om product te bekijken.
+  Nav bar komt vanaf rechts in beeld en neemt maar 20% in van het beeldscherm.
+  Winkelmadje rechts onder blijft altijd in beeld staan bij acties. (zoals de nav bar aanklikken)
+  De nav bar is geen vaste nav bar (dat ga ik wel doen)
+  
+
+
+
+
+  
+
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
